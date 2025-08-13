@@ -22,7 +22,7 @@ O modelo foi construído de forma a permitir:
 
 ## 🖼 Diagrama do Sistema
 
-![Diagrama da Oficina](/oficina.png)
+![Diagrama da Oficina](Oficina.png)
 
 ---
 
